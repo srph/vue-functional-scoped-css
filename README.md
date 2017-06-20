@@ -1,6 +1,6 @@
 # vue-functional-scoped-css
 
-> A Vue.js project
+> Example of functional components not working with scoped css ([Discussion](https://forum.vuejs.org/t/scoped-css-with-functional-components/12991)). See [demo](https://pump-attendant-wolf-84400.netlify.com/).
 
 ## Build Setup
 
